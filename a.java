@@ -3,3 +3,4 @@ this is a line added by dev_2
 this is line to test update by git pull
 
 this is is used to conflict
+this new added in dev2
